@@ -6,7 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 import java.time.LocalDate;
-
+//Prueba
 @Entity
 public class HoraExtra {
     @Id
